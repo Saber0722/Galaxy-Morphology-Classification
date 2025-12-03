@@ -1,0 +1,23 @@
+# Core Libraries
+tensorflow[and-cuda]
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipykernel
+# Image Processing Libraries
+opencv-python
+Pillow
+scikit-image
+# Data Handling Libraries
+tqdm
+h5py
+requests
+# Astronomy Libraries
+astropy
+astroquery
+# Additional Libraries
+imbalanced-learn
+plotly

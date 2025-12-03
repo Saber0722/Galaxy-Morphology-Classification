@@ -1,0 +1,26 @@
+galaxy_morphology_arxiv/*
+venv/*
+figures/*
+graphs/*
+main.aux
+main.blg
+main.log
+main.out
+references.bib
+x.log
+v5_hybrid_se_resnet_7class.keras
+images_training_rev1/*
+best_custom_cnn_7class.keras
+classification_reports.txt
+cover_letter.md
+depthwise_se_cnn_7class.keras
+efficientnet_b0_7class_finetuned.keras
+efficientnet_b0_7class_frozen.keras
+galaxy_morphology_arxiv.tar
+model_performance_report.csv
+resnet_like_7class.keras
+se_resnet_7class.keras
+training_solutions_rev1.csv
+graphs.ipynb
+# training_solutions_rev1.zip
+images_training_rev1.zip
